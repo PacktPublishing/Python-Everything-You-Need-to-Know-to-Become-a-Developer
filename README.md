@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/python-everything-you-need-to-know-to-become-a-developer-video/9781838551292)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Python-Everything-You-Need-to-Know-to-Become-a-Developer
 Code repository for Python: Everything You Need to Know to Become a Developer, Published by Packt
 # Python: Everything You Need to Know to Become a Developer
